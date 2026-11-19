@@ -1,15 +1,12 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-hello-dark.svg">
-  <img alt="Hi, I’m Ziya. Product designer in Tallinn, founder of make/scale." src="assets/banner-hello-light.svg" width="100%">
-</picture>
+<img alt="Hi, I’m Ziya. Product designer in Tallinn, founder of make/scale." src="assets/banner.svg" width="100%">
 
 <p align="center">
-  <a href="https://www.makescale.agency/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-website-dark.svg"><img alt="makescale.agency" src="assets/btn-website-light.svg" height="36"></picture></a>
-  <a href="https://www.linkedin.com/in/ziyahmadov"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="36"></picture></a>
-  <a href="https://www.behance.net/ziyaahmadov"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-behance-dark.svg"><img alt="Behance" src="assets/btn-behance-light.svg" height="36"></picture></a>
-  <a href="https://medium.com/@ziyahmadov"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-medium-dark.svg"><img alt="Medium" src="assets/btn-medium-light.svg" height="36"></picture></a>
-  <a href="https://cal.com/ziya-ahmadov-makescale/30min"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-call-dark.svg"><img alt="Book a call" src="assets/btn-call-light.svg" height="36"></picture></a>
-  <a href="mailto:makescaleagency@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img alt="Email" src="assets/btn-email-light.svg" height="36"></picture></a>
+  <a href="https://www.makescale.agency/"><img alt="makescale.agency" src="assets/website.svg" height="36"></a>
+  <a href="https://www.linkedin.com/in/ziyahmadov"><img alt="LinkedIn" src="assets/linkedin.svg" height="36"></a>
+  <a href="https://www.behance.net/ziyaahmadov"><img alt="Behance" src="assets/behance.svg" height="36"></a>
+  <a href="https://medium.com/@ziyahmadov"><img alt="Medium" src="assets/medium.svg" height="36"></a>
+  <a href="https://cal.com/ziya-ahmadov-makescale/30min"><img alt="Book a call" src="assets/call.svg" height="36"></a>
+  <a href="mailto:makescaleagency@gmail.com"><img alt="Email" src="assets/email.svg" height="36"></a>
 </p>
 
 <br>
@@ -19,8 +16,6 @@
 I design digital products around real people: how they think, what they need, and where they get stuck.
 
 I run **make/scale**, a design studio for founders. We help with brand, product, and web design, from the first idea to real growth.
-
-Before design, I trained as a petroleum engineer. That is why I like clear evidence, simple systems, and good data. Today I am studying for an MSc in Human-Computer Interaction at Tallinn University.
 
 #### Right now
 
